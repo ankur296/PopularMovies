@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share Trailer</string>
+    <string name="spinner_action_popularity">Popularity</string>
+    <string name="spinner_action_rating">Rating</string>
+    <string name="spinner_action_favorites">Favorites</string>
+    <string name="spinner_title">Sort By</string>
+    <string name="title_activity_detail">Movie Details</string>
+    <string name="title_trailers">Trailers:</string>
+    <string name="title_reviews">Reviews:</string>
+    <string name="mark_fav">MARK AS\nFAVORITE</string>
+    <string name="mark_un_fav">REMOVE AS\nFAVORITE</string>
+    <string name="empty_trailer">Trailers Unavailable For This Movie</string>
+    <string name="no_fav">No Favorite Movies!!</string>
+    <string name="no_nwk">No Network Available!</string>
+    <string name="nothing_to_show">Nothing To Show!</string>
+
+</resources>

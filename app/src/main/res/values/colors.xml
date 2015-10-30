@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="movie_name_tv_bg">#009688</color>
+    <color name="fav_tv_bg">#86e4db</color>
+</resources>

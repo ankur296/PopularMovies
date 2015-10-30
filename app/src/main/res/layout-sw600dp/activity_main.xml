@@ -1,0 +1,36 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+    <fragment
+        android:id="@+id/fragment_main"
+        android:name="corp.seedling.popularmovies.MainFragment"
+        tools:context="corp.seedling.popularmovies.MainFragment"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        >
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/fragment_detail"
+        android:name="corp.seedling.popularmovies.DetailFragment"
+        tools:context="corp.seedling.popularmovies.DetailFragment"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        >
+
+    </fragment>
+
+
+</LinearLayout>

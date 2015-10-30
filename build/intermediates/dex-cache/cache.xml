@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AnkurNigam\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="D:\study\MyApps\Libs\PopularMovies\app\build\intermediates\pre-dexed\debug\glide-3.5.2-d6148fefe9a7a7a13b3bb9e53eafb350a5801090.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Libs\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="D:\study\MyApps\Libs\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-aef51ef7df66135be2d2dc5de4ec11906def3c94.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Libs\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\study\MyApps\Libs\PopularMovies\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-2a0e05b3d31a33a7e8552df4c52cc57416e1ef38.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Libs\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\study\MyApps\Libs\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-f389e70c7aebbaca91c725af196ba77855a5fe0e.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Libs\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\study\MyApps\Libs\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-2f6c79d311e7978cd0eea1c0bc3832942a1de51d.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\study\MyApps\Libs\PopularMovies\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-f1462cdeee80d96c836ecf1c4a975b89df3bd2b5.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Libs\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="D:\study\MyApps\Libs\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-c957a6a552775220183f216216f47506c1bc89fa.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Libs\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3713f30726299231eddfb206043ebb72a2519b6f">
+        <dex dex="D:\study\MyApps\Libs\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-7a03925a76f117d173661cb9e373d2a9253a4e06.jar" />
+    </item>
+
+</items>
